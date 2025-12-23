@@ -35,9 +35,8 @@ const Hero = () => {
           </div>
         </div>
         <div className="hero-avatar-wrapper">
-          {/* Replace the src with a renamed, cleaner filename if you prefer */}
           <img
-            src="/WhatsApp Image 2025-12-22 at 6.41.47 PM.jpeg"
+            src="/avatar.jpeg"
             alt="Portrait of Muzammil Khan"
             className="hero-avatar hero-avatar-image"
           />
